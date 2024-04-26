@@ -14,7 +14,7 @@ Sample Insights:
 
 Women are more likely to buy compared to men (~65%)
 
-Maharashtra, Karnataka and Uttar Pradesh are the top 3 states in terms of sales comntribution.
+Maharashtra, Karnataka and Uttar Pradesh are the top 3 states in terms of sales contribution.
 
 Adult age group (21-49 yrs) is max contributing (~50%)
 
